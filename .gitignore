@@ -1,0 +1,6 @@
+build/
+dist/
+CrystalTool/src/__pycache__/
+CrystalTool/src/CrystalTool.egg-info
+CrystalTool/src/dislocationAnalysis/__pycache__
+CrystalTool/src/structureGeneration/__pycache__
